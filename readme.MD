@@ -7,6 +7,7 @@
 ## karam dosa
 
 * dosa batter
+<<<<<<< HEAD
 * karam added
 * oil
 
@@ -28,3 +29,5 @@
 ## Ghee karam
 
 * dosa batter
+* karam added
+
