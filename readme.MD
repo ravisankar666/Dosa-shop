@@ -14,3 +14,13 @@
 
 * Dosa batter
 * egg and karam
+
+## panner-dosa
+
+* dosa batter
+* panner
+* carrot
+* Beetroot
+* Cheese and Butter
+* Garam masala
+* secret masala
