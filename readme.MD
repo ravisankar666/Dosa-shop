@@ -20,7 +20,9 @@
 * dosa batter
 * panner
 * carrot
-* Beetroot
-* Cheese and Butter
-* Garam masala
-* secret masala
+
+## Masala-Dosa
+
+* Dosa batter
+* Masala and oil
+* onions
